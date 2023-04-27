@@ -1,7 +1,7 @@
 
       <template>
         <div id="app">
-          <h1>Hello, {{ message }} + 1</h1>
+          <h1>Hello, {{ message }} + 1 + 1</h1>
         </div>
       </template>
 
